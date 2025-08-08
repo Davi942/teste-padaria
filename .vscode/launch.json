@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrimeiroExemploApplication<primeiro_exemplo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.teste.primeiro_exemplo.PrimeiroExemploApplication",
+            "projectName": "primeiro_exemplo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
